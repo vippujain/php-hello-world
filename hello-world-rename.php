@@ -7,5 +7,7 @@ echo "new line";
 echo "add another line";
 echo "one more line";
 echo "adding new line to see the output for git diff";
+$var=1;
+echo $var;
 
 ?>
